@@ -1,0 +1,7 @@
+{"_source": "https://platform.claude.com/docs/en/about-claude/pricing", "_read": "2026-10-09", "_unit": "USD per million tokens",
+ "claude-opus-5-5":   {"in": 4,    "out": 20,   "w5m": 5,     "w1h": 8,    "hit": 0.20},
+ "claude-sonnet-5-5": {"in": 2,    "out": 10,   "w5m": 2.50,  "w1h": 4,    "hit": 0.10},
+ "claude-sonnet-5":   {"in": 2,    "out": 10,   "w5m": 2.50,  "w1h": 4,    "hit": 0.20},
+ "claude-haiku-5-5":  {"in": 0.10, "out": 0.50, "w5m": 0.125, "w1h": 0.20, "hit": 0.01,
+                       "_over_100k": {"in": 0.50, "out": 2.50, "w5m": 0.625, "w1h": 1, "hit": 0.05}},
+ "claude-haiku-4-5-20251001": {"in": 1, "out": 5, "w5m": 1.25, "w1h": 2, "hit": 0.10}}
